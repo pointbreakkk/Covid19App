@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Covid19Tracker</string>
+    <string name="active">Active</string>
+    <string name="credits1"> <b>covid19india.org</b> for India specific API.
+
+    </string>
+
+    <string name="credits2"> <b>corona.lmao.ninja</b> for global API.
+
+    </string>
+
+    <string name="credits3"> <b>Flaticons</b> for all the icons used here
+
+    </string>
+
+    <string name="libs1"> <b>Glide</b> for all flag images </string>
+    <string name="libs2"> <b>Eaze Graph</b> for pie charts </string>
+    <string name="libs3"> <b>Circle ImageView</b> for circular picture view </string>
+
+    <string name="stuff">This is honestly my first app that is not a test app. I know it is a redundant project, but I tried whatever I could.
+    Also, it will be the best day of my life when the functionality of this app is rendered 0, because well, covid sucks. Thank you.</string>
+
+    <string name="version">Made somehow by sayaroy</string>
+
+</resources>
